@@ -1,4 +1,3 @@
-````markdown
 # IoT-Based Thermal Monitoring for *Agaricus bisporus* Cultivation
 
 This repository contains the dataset and R scripts used to analyze temperature records collected during the cultivation of *Agaricus bisporus*. The study compares a traditional manual monitoring procedure with an IoT-based automated thermal monitoring system deployed in a commercial mushroom production chamber.
@@ -142,24 +141,8 @@ The statistical analysis showed significant differences in five of the six equiv
 
 ---
 
-## Citation
-
-If you use this dataset or code, please cite the associated paper:
-
-```bibtex
-@inproceedings{thermal_monitoring_agaricus_2026,
-  title     = {IoT-Based Intelligent Thermal Monitoring for Controlled Agaricus bisporus Cultivation},
-  author    = {Author names removed for review},
-  booktitle = {WITCOM 2026},
-  year      = {2026}
-}
-```
-
----
-
 ## License
 
 This repository is intended for academic and research purposes. Please check the license file before reusing the dataset or code.
 
-```
-```
+
